@@ -1,1 +1,0 @@
-# projetopraticobd_isaac
