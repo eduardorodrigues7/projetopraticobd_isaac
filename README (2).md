@@ -6,13 +6,15 @@ Todos os dados da planilha são carregados, e a planilha original pode ser recon
 a partir do banco (validação automática com 0 diferenças).
 
 **Equipe**
+ 
 
-| Nome |
+ Eduardo Aragao Rodrigues 
 
+ 
+ Douglas Mauricio Daibes 
 
-| Eduardo Aragao Rodrigues 
-| Douglas Mauricio Daibes 
-| Marcos Costa 
+ 
+ Marcos Costa 
 
 
 ---
