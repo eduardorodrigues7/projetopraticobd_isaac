@@ -8,6 +8,8 @@ a partir do banco (validação automática com 0 diferenças).
 **Equipe**
 
 | Nome |
+
+
 | Eduardo Aragao Rodrigues 
 | Douglas Mauricio Daibes 
 | Marcos Costa 
