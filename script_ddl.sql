@@ -1,20 +1,3 @@
-/* =============================================================================
-   BARRAGENS DE USINAS HIDRELÉTRICAS (ANA / SNISB) - SCRIPT 01: DDL
-   -----------------------------------------------------------------------------
-   Equipe:
-     - Eduardo Aragão Rodrigues
-     - Douglas Daibes
-     - Marcos Costa
-
-   SGBD ....: PostgreSQL 13+ (testado no PostgreSQL 16)
-   Execução : psql -d <banco_vazio> -f 01_ddl.sql
-   Ordem ...: 01_ddl.sql -> 02_carga.sql -> 03_validacao.sql (opcional)
-
-   Modelo normalizado até a 3ª Forma Normal a partir de ana_barragens_hidreletricas.csv
-   (887 barragens x 33 colunas). As decisões de modelagem estão no README.md e
-   no documento de modelagem.
-   ============================================================================= */
-
 SET client_encoding = 'UTF8';
 
 -- Permite reexecutar o script sem erro (em banco vazio estes comandos não fazem nada)
